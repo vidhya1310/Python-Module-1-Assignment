@@ -7,6 +7,9 @@ def add():
 
 # 2. With Parameter & Without Return Type
 def sub(a, b):
+    a=30
+    b=20.
+    
     print("Subtraction:", a - b)
 
 

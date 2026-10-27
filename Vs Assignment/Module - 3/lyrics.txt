@@ -1,0 +1,2 @@
+Hello,python programming
+this is lyrics file
