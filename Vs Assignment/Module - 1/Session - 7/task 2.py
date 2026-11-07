@@ -4,4 +4,5 @@ for food in foods:
     if food == 'Burger King':
         print('Found Burger King, stopping search.')
         break
+
     print(food)

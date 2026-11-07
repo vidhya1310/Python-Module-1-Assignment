@@ -1,0 +1,4 @@
+Arjun,5000000000,380015 - Invalid Mobile Number
+Sneha,6666666666,056001 - Invalid PIN Code
+Jay,12345,380009 - Invalid Mobile Number
+Pooja,5000000000,056001 - Invalid Mobile Number, Invalid PIN Code
